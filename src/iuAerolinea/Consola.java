@@ -10,7 +10,7 @@ public class Consola {
 				
 		Aerolinea ae1 = new Aerolinea();
 		Aerolinea ae2 = new Aerolinea("01","Avianca");
-	
+		Aerolinea ae4 = new Aerolinea("01","Avianca");
 		
 		System.out.println(ae1.toString());
 		System.out.println(ae2.toString());
